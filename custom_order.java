@@ -28,6 +28,7 @@ double tax; // Amount of tax
 	 
     // Introduce shop and prompt user to input first name
       
+System.out.println("Hello World");
 System.out.println("Welcome to Java's Cake & Cupcake Shop!");
 System.out.println("We make custom cakes with our secret cake batter!");
 
